@@ -80,3 +80,9 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<style>
+.badges {
+  outline: 1px solid red;
+  }
+</style>
