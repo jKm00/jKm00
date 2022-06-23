@@ -1,5 +1,5 @@
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=yellow&style=for-the-badge" alt="jkm00" /> 
+<img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=yellow&style=flat" alt="jkm00" /> 
 <img src="https://img.shields.io/static/v1?label=msg&message=hello&color=yellow" alt="">
 </p>
 
