@@ -6,13 +6,15 @@ Student
 
 22-year-old student at NTNU Ålesund. Currently in my third and final year of my batchelor, but thinking about extending for a master. Started fiddeling with programing when I was 16 and loved it every since.
 
-<ul align="center">
-  <li>🌍  I'm based in Ålesund</li>
-  <li>✉️  You can contact me at [joakimedvardsen2000@gmail.com](mailto:joakimedvardsen2000@gmail.com)</li>
-  <li>🚀  I'm currently working on [War Game](http://github.com/jKm00/war-game)</li>
-  <li>🧠  I'm learning Vue and Spring boot</li>
-  <li>🤝  I'm open to collaborating on any meaningful projects</li>
-</ul>
+<div align="center">
+  <ul>
+    <li>🌍  I'm based in Ålesund</li>
+    <li>✉️  You can contact me at [joakimedvardsen2000@gmail.com](mailto:joakimedvardsen2000@gmail.com)</li>
+    <li>🚀  I'm currently working on [War Game](http://github.com/jKm00/war-game)</li>
+    <li>🧠  I'm learning Vue and Spring boot</li>
+    <li>🤝  I'm open to collaborating on any meaningful projects</li>
+  </ul>
+</div>
   
 ### My Stack
 
