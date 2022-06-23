@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=0e75b6&style=flat" alt="jkm00" /> </p>
+
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
 <h3 align="center">Student at NTNU Ålesund</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=0e75b6&style=flat" alt="jkm00" /> </p>
 
 22-year-old student at NTNU Ålesund. Currently in my third and final year of my batchelor, but thinking about extending for a master. Started fiddeling with programing when I was 16 and loved it every since.
 
