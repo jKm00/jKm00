@@ -1,3 +1,16 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=0e75b6&style=flat" alt="jkm00" /> </p>
 
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
@@ -80,16 +93,3 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
