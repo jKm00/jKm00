@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=yellow6&style=for-the-badge" alt="jkm00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=yellow&style=for-the-badge" alt="jkm00" /> </p>
 
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
 <h3 align="center">Student at NTNU Ålesund</h3>
