@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/jKm00?color=brightgreen&label=Stars" alt="gtihbub stars" />
 </div>
 
-<h3 align="center">Student at NTNU Ålesund</h3>
+<h3 align="center">Full-Stack Student</h3>
 
 22-year-old student at NTNU Ålesund. Currently in my third and final year of my batchelor, but thinking about extending for a master. Started fiddeling with programing when I was 16 and loved it every since.
 
