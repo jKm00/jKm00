@@ -57,8 +57,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/jKm00/hiking-equipment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" />
+      <a height="100%" href="https://github.com/jKm00/hiking-equipment">
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
