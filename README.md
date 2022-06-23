@@ -1,7 +1,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=yellow&style=flat" alt="jkm00" /> 
 <img src="https://img.shields.io/static/v1?label=msg&message=hello&color=yellow" alt="">
-<img src="https://img.shields.io/github/languages/code-size/jKm00" alt="">
+<img src="https://img.shields.io/github/languages/code-size/jKm00/jKm00" alt="">
 </p>
 
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
