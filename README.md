@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
 <h3 align="center">Student at NTNU Ålesund</h3>
 
+<a align="center" href="http://www.github.com/jKm00">
+  <img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" />
+</a>
+
 22-year-old student at NTNU Ålesund. Currently in my third and final year of my batchelor, but thinking about extending for a master. Started fiddeling with programing when I was 16 and loved it every since.
 
 * 🌍  I'm based in Ålesund
