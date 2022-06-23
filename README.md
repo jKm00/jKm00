@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
-<h3 align="center">Student at NTNU Ålesund</h3>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat" alt="jkm00" /> 
   <img src="https://img.shields.io/github/followers/jKm00?color=brightgreen&label=Followers" alt="github follower" />
   <img src="https://img.shields.io/github/stars/jKm00?color=brightgreen&label=Stars" alt="gtihbub stars" />
 </div>
+
+<h3 align="center">Student at NTNU Ålesund</h3>
 
 22-year-old student at NTNU Ålesund. Currently in my third and final year of my batchelor, but thinking about extending for a master. Started fiddeling with programing when I was 16 and loved it every since.
 
