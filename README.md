@@ -49,7 +49,7 @@ Student
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/jKm00/hiking-equipment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/jKm00/hiking-equipment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
 
 ### Support Me
 
