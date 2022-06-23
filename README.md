@@ -56,4 +56,4 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" width="200" /></a>
