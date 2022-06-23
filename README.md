@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat" alt="jkm00" /> 
+  <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat&logo=github" alt="jkm00" /> 
   <img src="https://img.shields.io/github/followers/jKm00?color=brightgreen&logo=github" alt="github follower" />
   <img src="https://img.shields.io/github/stars/jKm00?color=brightgreen&logo=github" alt="gtihbub start" />
 </p>
