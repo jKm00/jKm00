@@ -49,10 +49,6 @@
 
 <a align="left" href="http://www.github.com/jKm00"><img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" /></a>
 
-### Top Repositories
-
-<a href="https://github.com/jKm00/hiking-equipment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
