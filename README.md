@@ -1,16 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=0e75b6&style=flat" alt="jkm00" /> </p>
 
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
@@ -68,7 +55,7 @@ blockquote {
       <a href="http://www.github.com/jKm00"><img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" /></a>
     </td>
     <td>
-      <div width="100%" align="center">
+      <div width="100%" height="100%" align="center">
         <a href="https://github.com/jKm00/hiking-equipment" align="left">
           <img align="left" width="90%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" />
         </a>
@@ -76,11 +63,6 @@ blockquote {
     </td>
   </tr>
 </table>
-
-<div class="badges">
-  hello
-</div>
-
 
 ## My GitHub Stats
 
