@@ -82,7 +82,14 @@
 <a href="https://www.buymeacoffee.com/joakimedvam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <style>
-.badges {
-  outline: 1px solid red;
-  }
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
 </style>
