@@ -1,6 +1,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat" alt="jkm00" /> 
-  <img src="https://img.shields.io/static/v1?label=language&message=norwegian%20and%20english&color=brightgreen" alt="height">
+  <img src="https://img.shields.io/static/v1?label=language&message=norwegian%20&%20english&color=brightgreen" alt="height">
   <img src="https://img.shields.io/static/v1?label=height&message=1.90&color=brightgreen" alt="height">
   <img src="https://img.shields.io/static/v1?label=eye%20color&message=blue&color=brightgreen" alt="">
   <img src="https://img.shields.io/github/languages/code-size/jKm00/jKm00" alt="">
