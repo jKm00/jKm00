@@ -1,4 +1,4 @@
-Hi 👋 My name is Joakim Edvardsen
+Hi world, my name is Joakim Edvardsen 👋
 =================================
 
 Student
