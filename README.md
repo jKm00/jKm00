@@ -10,10 +10,6 @@
 * 🚀  I'm currently working on [War Game](http://github.com/jKm00/war-game) and [CryptoYard](https://github.com/The-Compilers/CryptoYard/tree/dev)
 * 🧠  I'm learning Vue and Spring boot
 * 🤝  I'm open to collaborating on any meaningful projects
-
-<div align="center">
-<a href="http://www.github.com/jKm00"><img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" /></a>
-</div>
   
 ### My Stack
 
@@ -47,32 +43,13 @@
 <a href="https://discord.gg/#2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2061" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Badges</h3>
+## Badges
 
-<table border="none">
-  <tr>
-    <th>My GitHub Stats</th>
-    <th>Top Repositories</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="http://www.github.com/jKm00">
-        <img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a height="100%" href="https://github.com/jKm00/hiking-equipment">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## My GitHub Stats
+### My GitHub Stats
 
 <a align="left" href="http://www.github.com/jKm00"><img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" /></a>
 
-## Top Repositories
+### Top Repositories
 
 <a href="https://github.com/jKm00/hiking-equipment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jKm00&repo=hiking-equipment&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br />
 
