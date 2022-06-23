@@ -40,7 +40,7 @@
 <a href="https://linkedin.com/in/joakim-edvardsen-665043220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joakim-edvardsen-665043220" height="30" width="40" /></a>
 <a href="https://fb.com/joakim.edvardsen.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joakim.edvardsen.1" height="30" width="40" /></a>
 <a href="https://instagram.com/joakim_edvardsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joakim_edvardsen" height="30" width="40" /></a>
-<a href="https://discord.com/users/Joakim#2061" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a> 
+<a href="https://discord.gg/#2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2061" height="30" width="40" /></a>
 </p>
 
 ### Badges
