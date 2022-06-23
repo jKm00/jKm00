@@ -2,9 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat" alt="jkm00" /> 
   <img src="https://img.shields.io/github/followers/jKm00?color=brightgreen&label=Followers" alt="github follower" />
   <img src="https://img.shields.io/github/stars/jKm00?color=brightgreen&label=Stars" alt="gtihbub stars" />
-  <img src="https://img.shields.io/static/v1?label=language&message=norwegian%20%26%20english&color=blueviolet" alt="height">
-  <img src="https://img.shields.io/static/v1?label=height&message=1.90&color=blueviolet" alt="height">
-  <img src="https://img.shields.io/static/v1?label=eye%20color&message=blue&color=blueviolet" alt="">
+  
 </div>
 
 <h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
