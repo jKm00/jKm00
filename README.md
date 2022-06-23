@@ -8,7 +8,7 @@ Student
 
 * 🌍  I'm based in Ålesund
 * ✉️  You can contact me at [joakimedvardsen2000@gmail.com](mailto:joakimedvardsen2000@gmail.com)
-* 🚀  I'm currently working on [War Game](http://github.com/jKm00/war-game)
+* 🚀  I'm currently working on [War Game](http://github.com/jKm00/war-game) and [CryptoYard](https://github.com/The-Compilers/CryptoYard)
 * 🧠  I'm learning Vue and Spring boot
 * 🤝  I'm open to collaborating on any meaningful projects
   
