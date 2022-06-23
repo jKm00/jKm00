@@ -5,7 +5,7 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=language&message=norwegian%20%26%20english&color=blueviolet" alt="height">
-  <img src="https://img.shields.io/static/v1?label=height&message=1.90&color=brightgrbluevioleteen" alt="height">
+  <img src="https://img.shields.io/static/v1?label=height&message=1.90&color=blueviolet" alt="height">
   <img src="https://img.shields.io/static/v1?label=eye%20color&message=blue&color=blueviolet" alt="">
 </p>
 
