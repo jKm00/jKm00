@@ -54,11 +54,11 @@
 
 <p align="left"> 
   <!-- Linkedin -->
-  <a href="https://linkedin.com/in/joakim-edvardsen-665043220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin logo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joakim-edvardsen-665043220" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin logo" height="30" width="40" /></a>
   <!-- Discord -->
-  <a href="https://discord.gg/#2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /></a>
+  <a href="https://discord.gg/#2061" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /></a>
   <!-- Codepen -->
-  <a href="https://codepen.io/jaakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen logo" height="30" width="40" /></a>
+  <a href="https://codepen.io/jaakim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen logo" height="30" width="40" /></a>
   <!-- Gmail -->
   <a href="mailto: joakimedvardsen2000@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alr="Gmail logo" height="30" width="40"</a>
 </p>
