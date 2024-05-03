@@ -8,11 +8,11 @@
 
 <h3 align="center">Full-Stack Student</h3>
 
-23-year-old student at NTNU Trondheim. Finished my bachelor's in computer engineering at NTNU Ålesund summer of 2023 and am now studying for my master's at NTNU Trondheim. Started fiddling with programming when I was 16 and loved it ever since. Read more about me at [my webiste](https://edvardsen.dev/).
+24-year-old student at NTNU Trondheim. Finished my bachelor's in computer engineering at NTNU Ålesund summer of 2023 and am now studying for my master's at NTNU Trondheim. Started fiddling with programming when I was 16 and loved it ever since. Read more about me at [my website](https://edvardsen.dev/).
 
 * 🌍  I'm based in Trondheim
 * ✉️  You can contact me at [joakimedvardsen2000@gmail.com](mailto:joakimedvardsen2000@gmail.com)
-* 🚀  I'm currently working on a [Csgo Strategy App](https://github.com/jKm00/csgo-nade-app) using sveltekit
+* 🚀  I'm currently working on [TF2DLE](https://www.tf2dle.com/) using SvelteKit
 
 ### My Socials
 
