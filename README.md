@@ -18,16 +18,3 @@
 24-year-old computer science student in Trondheim, finishing my master's degree. I specialize in web and mobile application development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jKm00&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Featured projects
-
-<ul style="list-style-type: disc;">
-  <li style="display: flex; align-items: center;">
-    <img src="./assets/scout-scattergun.png" alt="tf2 logo" width="25" height="25">
-    <a href="https://tf2dle.com">TF2DLE</a>
-  </li>
-  <li style="display: flex; align-items: center; gap: 0.4rem">
-    📦
-    <a href="https://svelte-param-store.vercel.app/">Svelte Param Store</a>
-  </li>
-</ul>
