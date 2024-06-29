@@ -1,36 +1,33 @@
-<h1 align="center">Hi 👋, I'm Joakim Edvardsen</h1>
-
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jkm00&label=Profile%20views&color=brightgreen&style=flat" alt="jkm00" /> 
-  <img src="https://img.shields.io/github/followers/jKm00?color=brightgreen&label=Followers" alt="github follower" />
-  <img src="https://img.shields.io/github/stars/jKm00?color=brightgreen&label=Stars" alt="gtihbub stars" />
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://edvardsen.dev" style="display: flex; align-items:center;">
+    <img src="./assets/memoji-computer.png" alt="memoji" width="20" height="20" />Portfolio
+  </a>
+  |
+  <a href="mailto:joakimedvardsen2000@gmail.com" style="display: flex; align-items: center;">
+    <img src="./assets/gmail-logo.png" alt="gmail logo" width="15" height="12" style="margin-right: 0.25rem" />Mail
+  </a>
+  |
+  <a href="" style="display: flex; align-items: center;">
+    <img src="./assets/linkedin-logo.png" alt="LinkedIn logo" width="15" height="15" style="margin-right: 0.25rem">
+    LinkedIn
+  </a>
 </div>
 
-<h3 align="center">Full-Stack Student</h3>
+## Greetings! ✨
 
-24-year-old student at NTNU Trondheim. Finished my bachelor's in computer engineering at NTNU Ålesund summer of 2023 and am now studying for my master's at NTNU Trondheim. Started fiddling with programming when I was 16 and loved it ever since. Read more about me at [my website](https://edvardsen.dev/).
+24-year-old computer science student in Trondheim, finishing my master's degree. I specialize in web and mobile application development
 
-* 🌍  I'm based in Trondheim
-* ✉️  You can contact me at [joakimedvardsen2000@gmail.com](mailto:joakimedvardsen2000@gmail.com)
-* 🚀  I'm currently working on [TF2DLE](https://www.tf2dle.com/) using SvelteKit
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jKm00&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Socials
+### Featured projects
 
-<p align="left"> 
-  <!-- Linkedin -->
-  <a href="https://linkedin.com/in/joakim-edvardsen-665043220" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin logo" height="30" width="40" /></a>
-  <!-- Discord -->
-  <a href="https://discord.gg/#2061" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /></a>
-  <!-- Gmail -->
-  <a href="mailto: joakimedvardsen2000@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alr="Gmail logo" height="30" width="40"</a>
-</p>
-
-## Badges
-
-### My GitHub Stats
-
-<a href="http://www.github.com/jKm00"><img src="https://github-readme-stats.vercel.app/api?username=jKm00&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="jKm00's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/joakimedvam">:coffee: Buy me a coffee</a>
+<ul style="list-style-type: disc;">
+  <li style="display: flex; align-items: center;">
+    <img src="./assets/scout-scattergun.png" alt="tf2 logo" width="25" height="25">
+    <a href="https://tf2dle.com">TF2DLE</a>
+  </li>
+  <li style="display: flex; align-items: center; gap: 0.4rem">
+    📦
+    <a href="https://svelte-param-store.vercel.app/">Svelte Param Store</a>
+  </li>
+</ul>
