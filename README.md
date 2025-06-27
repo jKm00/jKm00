@@ -15,6 +15,6 @@
 
 ## Greetings! ✨
 
-24-year-old computer science student in Trondheim, finishing my master's degree. I specialize in web and mobile application development
+25-year-old software developer working at DNB, with a master's degree in Computer Science from NTNU in Trondheim. I specialize in web and mobile application development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jKm00&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
